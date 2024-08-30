@@ -1,0 +1,7 @@
+__pycache__/*
+.venv/*
+*.data
+build/*
+dist/*
+isat.ico
+venv/*
